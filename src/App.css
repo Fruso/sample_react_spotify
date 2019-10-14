@@ -1,0 +1,19 @@
+.itemcs{
+  background: #f0e6e6;
+  margin: 1em;
+  padding: 1em;
+  height: 180px;
+}
+
+.img_item{
+  float: left;
+  width: 160px;
+}
+.text_item{
+  margin-bottom: 5px;
+  margin-left: 1em;
+}
+
+.btn_item{
+  float: right;
+}
