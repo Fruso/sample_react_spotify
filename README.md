@@ -9,7 +9,7 @@ URL SAMPLE: http://18.228.162.212:3001/home
   <li>MongoDB</li>
 </ul>
 
-<h2>Requiere: </h2>
+<h2>Requires: </h2>
 <ul>
   <li>NodeJS 10 or higher </li>
 </ul>
