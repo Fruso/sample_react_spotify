@@ -20,5 +20,5 @@ URL SAMPLE: http://18.228.162.212:3005/home
   <li>git clone git@github.com:Fruso/sample_react_spotify.git</li>
   <li>cd sample_react_spotify</li>
   <li>npm install</li>
-  <li>npm start</li>
+  <li>npm start or forever start -c "npm start" ./ (linux)</li>
 </ul>
