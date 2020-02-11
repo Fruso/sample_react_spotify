@@ -1,4 +1,4 @@
-URL SAMPLE: http://18.228.162.212:3001/home
+URL SAMPLE: http://18.228.162.212:3005/home
 
 <h2>Sample API using:</h2>
 
